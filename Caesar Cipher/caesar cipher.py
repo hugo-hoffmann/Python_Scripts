@@ -1,9 +1,9 @@
-##Problem Set 4 - Caesar Cipher
+#Caesar Cipher
 
 import string
 
 
-wordList=['O', 'mundo', 'é ', 'tudo', 'que', 'o', 'caso', 'vaca' , 'cabrito']
+wordList=[]
 
 def build_coder(shift):
 
